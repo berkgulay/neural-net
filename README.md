@@ -1,7 +1,7 @@
 # ArtificialNeuralNetwork
 Artificial Neural Network implementation (Flexible - Generic - Multi Layered)
 
-<img src="https://techblog.viasat.com/wp-content/uploads/2017/07/ANN-Diagram.png" alt="alt text" width="500" height="300">
+<img src="https://miro.medium.com/max/9834/1*7mZxWa3zvTzdtFZFoHSqBg.jpeg" alt="alt text" width="500" height="300">
 
 **Project Topic:** Develop an *Artificial Neural Network* implementation which is generic, flexible and can be used for Multi Layered architectures as well.
 
