@@ -1,4 +1,4 @@
-# ArtificialNeuralNetwork
+# Artificial Neural Network
 Artificial Neural Network implementation (Flexible - Generic - Multi Layered)
 
 <img src="https://miro.medium.com/max/9834/1*7mZxWa3zvTzdtFZFoHSqBg.jpeg" alt="alt text" width="500" height="300">
